@@ -1,0 +1,8 @@
+{
+	"name": "GitHub Fix",
+	"author": "Kenneth Chew",
+	"description": "Changes the accept header for GitHub URLs so that feeds work.",
+	"version": 1.0,
+	"entrypoint": "GitHub",
+	"type": "user"
+}
